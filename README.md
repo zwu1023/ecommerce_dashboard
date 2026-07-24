@@ -1,5 +1,5 @@
 E-Commerce Performance & Conversion Dashboard
-This project is a Tableau-based e-commerce analytics dashboard based on [https://github.com/zwu1023/Ecommerce_funnel_sql]
+This project is a Tableau-based e-commerce analytics dashboard based on [Ecommerce_funnel project](https://github.com/zwu1023/Ecommerce_funnel_sql)
 
  Core Dashboard Modules
 Top KPI Summary Bar:
