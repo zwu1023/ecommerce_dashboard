@@ -20,12 +20,12 @@ Traffic Source Performance:
 
 Compares purchase conversion efficiency across different traffic channels (such as Email, Organic, Paid Ads, and Social), highlighting the high-converting performance of the Email channel.
 
-🚀 File Description
+File Description
 .twb / .twbx: Tableau workbook files containing all chart logic, filters, and layout arrangements.
 
 Data Source: Built upon multi-dimensional aggregate analysis using master_ecommerce_summary.csv.
 
-🛠️ How to View
+How to View
 Download and install Tableau Desktop or the Tableau Public client.
 
 Double-click to open the .twbx packaged workbook file to directly view the fully interactive dashboard and underlying data.
